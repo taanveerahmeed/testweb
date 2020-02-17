@@ -1,0 +1,23 @@
+<users>
+	<user>
+		<name>Tanvir Ahmed</name>
+		<id>1901-1955-2</id>
+		<designation>Lecturer</designation>
+		<uname>1901-1955-2</uname>
+		<password>1234567</password>
+	</user>
+	<user>
+		<name>Aneem Al Ahsan</name>
+		<id>1901-1956-2</id>
+		<designation>Lecturer</designation>
+		<uname>1901-1956-2</uname>
+		<password>12345678</password>
+	</user>
+	<user>
+		<name>SAzzad Hossain</name>
+		<id>1901-1957-2</id>
+		<designation>Assistant Professor</designation>
+		<uname>1901-1957-2</uname>
+		<password>123456</password>
+	</user>
+</users>
